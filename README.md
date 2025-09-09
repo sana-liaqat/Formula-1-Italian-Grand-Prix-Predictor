@@ -24,7 +24,7 @@ This project uses historical F1 data, weather information, and team performance 
 ## Usage
 Run the prediction script
 ```bash
-jupyter notebook notebooks/f1_italian_gp_analysis.ipynb
+jupyter notebook notebooks/2025_f1_italian_gp_prediction.ipynb
 ``` 
 
 ## Results
