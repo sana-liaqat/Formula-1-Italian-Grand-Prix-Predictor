@@ -1,6 +1,10 @@
 # Formula 1 Italian Grand Prix Predictor
 
-A machine learning project that predicts Formula 1 race results for the Italian Grand Prix at Monza.
+Welcome to F1 Predictions 2025 – a data-driven approach to Formula 1!
+
+This project combines the FastF1 API, historical race data, and a machine learning pipeline to simulate and predict race outcomes for the 2025 Formula 1 season. Using past performance, qualifying results, and engineered features, the model estimates finishing times and ranks drivers for each Grand Prix.
+
+Whether you’re an F1 fan curious about data science or an ML enthusiast curious about F1, this project shows how machine learning can bring racing strategy and analytics to life.
 
 ## Project Overview
 
