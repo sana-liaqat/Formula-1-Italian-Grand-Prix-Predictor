@@ -35,5 +35,21 @@ The model predicts race times for the 2025 Italian Grand Prix with visualization
 - Feature importance analysis
 - Team performance comparisons
 
+# Expected output
+```bash
+🏁 Predicted 2025 Italian GP Results 🏁
+  Driver          Team  PredictedRaceTime (s)  PredictedPosition
+3    NOR       McLaren              75.558324                  1
+0    VER      Red Bull              75.894366                  2
+1    LEC       Ferrari              75.914995                  3
+4    PIA       McLaren              75.918563                  4
+2    SAI       Ferrari              75.946225                  5
+6    HAM      Mercedes              76.166732                  6
+5    RUS      Mercedes              76.174746                  7
+9    GAS        Alpine              76.706700                  8
+8    ALB      Williams              76.717305                  9
+7    ALO  Aston Martin              76.776086                 10
+``` 
+
 ## Model Performance
 The Mean Absolute Error (MAE) is used to evaluate how well the model predicts race times. Lower MAE values indicate more accurate predictions.
