@@ -35,7 +35,7 @@ The model predicts race times for the 2025 Italian Grand Prix with visualization
 - Feature importance analysis
 - Team performance comparisons
 
-# Expected output
+## Expected output
 ```bash
 🏁 Predicted 2025 Italian GP Results 🏁
   Driver          Team  PredictedRaceTime (s)  PredictedPosition
@@ -49,6 +49,10 @@ The model predicts race times for the 2025 Italian Grand Prix with visualization
 9    GAS        Alpine              76.706700                  8
 8    ALB      Williams              76.717305                  9
 7    ALO  Aston Martin              76.776086                 10
+...
+Model Performance:
+MAE: 0.213 seconds
+R² Score: 0.794
 ``` 
 
 ## Model Performance
