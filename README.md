@@ -4,7 +4,23 @@ A machine learning project that predicts Formula 1 race results for the Italian 
 
 ## Project Overview
 
-This project uses historical F1 data, weather information, and team performance metrics to predict race outcomes for the Italian GP. The system employs a Gradient Boosting Regressor to forecast race times based on various features including qualifying performance, historical sector times, weather conditions, and team data.
+This repository contains a Gradient Boosting Machine Learning model that predicts race results based on:
+
+- Past performance (historical race data)
+
+- Qualifying times (2025 session data)
+
+- Team/driver features engineered from F1 datasets
+
+The model leverages:
+
+- FastF1 API for historical race and qualifying data
+
+- 2024 Italian GP race results for training
+
+- 2025 qualifying session data for predictions
+
+- Feature engineering techniques to improve accuracy
 
 ## Features
 
